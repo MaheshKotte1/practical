@@ -21,6 +21,9 @@ public class PrimitiveTypeExample {
 		
 		System.out.println("Price for 10 items: " + (price * 10));
 
+       		 System.out.println("Mahesh Changed");
+
+
 	}
 
 }
